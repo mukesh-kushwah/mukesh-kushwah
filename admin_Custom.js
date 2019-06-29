@@ -1,6 +1,6 @@
 /*    Custom.js      */
 /*    Custom.js      */
-/* ================ */
+/* ================ ========= Mukesh kushwah*/
 
 	// Make sure jQuery has been loaded
 	if (typeof jQuery === 'undefined') {
